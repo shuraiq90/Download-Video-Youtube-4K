@@ -410,6 +410,3 @@ youtube 4k video downloader
   <img src="assets/4k_video_downloader_error_failed_to_download.png" alt="4k video downloader error failed to download" title="4k video downloader error failed to download" width="320">
 </a>
 
-<a href="https://www.google.com/search?q=4k%20video%20downloader%3A" target="_blank">
-  <img src="assets/4k_video_downloader:.png" alt="4k video downloader:" title="4k video downloader:" width="320">
-</a>
